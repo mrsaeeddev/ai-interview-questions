@@ -18,7 +18,7 @@
 
 Q. If the dataset you are using is large and you face runtime issues handling it, how would you handle it?
 <br />
- Different appraoches:
+A. Different appraoches:
 - Historical Data:
     - Large Dataset: - [See this](https://www.analyticsvidhya.com/blog/2018/08/dask-big-datasets-machine_learning-python/)
                      - Load data in batches
