@@ -13,3 +13,15 @@
 </h1>
 <br/>
 <br/>
+
+----------------------------------
+
+# DATA SCIENCE QUESTIONS
+
+Q. If the dataset you are using is large and you face runtime issues handling it, how would you handle it?
+A. Different appraoches:
+- Historical Data:
+    - Large Dataset: - [See this](https://www.analyticsvidhya.com/blog/2018/08/dask-big-datasets-machine_learning-python/)
+                     - Load data in batches
+    - Small Datasets: You are good to go with Pandas and Numpy as usual
+- Realtime Data: - You need to look into big data solutions like Kafka, Hadoop etc
