@@ -16,9 +16,17 @@
 
 # DATA SCIENCE QUESTIONS
 
+Q. How to find outliers in data?
+<br />
+A. i. If you know the outlier values, then you may set some threshold value for the outliers. So, by filtering the data that lies inside that values you can get filtered data.
+<br />
+ii. If you don't know the outlier values in advance, you can apply clustering to find out the clusters and drop the data that lies outside that. Same goes for other models like Linear Regression or SVM. 
+iii. Scatter plots and Box plots are used to find visualize outliers so you can use them for visualization part.
+
 Q. If the dataset you are using is large and you face runtime issues handling it, how would you handle it?
 <br />
 A. Different appraoches:
+<br />
 - Historical Data:
     - Large Dataset: - [See this](https://www.analyticsvidhya.com/blog/2018/08/dask-big-datasets-machine_learning-python/)
                      - Load data in batches
