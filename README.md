@@ -33,3 +33,15 @@ A. Different appraoches:
                      - Load data in batches
     - Small Datasets: You are good to go with Pandas and Numpy as usual
 - Realtime Data: - You need to look into big data solutions like Kafka, Hadoop etc
+
+Q. Why CatBoost and XGBoost is better than gradient boosting in sklearn?
+<br />
+A. 
+
+Q. How Gradient Boosting works?
+<br />
+A. [See here](https://www.displayr.com/gradient-boosting-the-coolest-kid-on-the-machine-learning-block/)
+
+Q. How Hyperparameters in an algorithm work?
+<br />
+A. [See here](https://towardsdatascience.com/understanding-hyperparameters-and-its-optimisation-techniques-f0debba07568)
