@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-# GENERAL ADVICE:
+# GENERAL Requirements for AI related roles:
 
 ## DATA ENGINEERS:
 
