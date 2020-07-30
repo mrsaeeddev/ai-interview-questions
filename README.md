@@ -14,6 +14,38 @@
 <br/>
 <br/>
 
+# GENERAL ADVICE:
+
+## DATA ENGINEERS:
+
+Requirements:
+- Programming Experience in a language like Python, Go etc.
+- Solid Knowledge of Operating Systems
+- Understanding of ETL pipelines
+- Heavy, In-Depth Database Knowledge – SQL and NoSQL
+- Data Warehousing – Hadoop, MapReduce, HIVE, PIG, Apache Spark, Kafka
+- Basic Machine Learning Familiarity
+
+## DATA SCIENTISTS:
+
+Requirements:
+- Programming Experience in a language like Python, R etc.
+- Statistics (familiarity with statistical tests, distributions, maximum likelihood estimators, etc.)
+- Basic Machine Learning Skills
+- Multivariable Calculus & Linear Algebra
+- In-Depth knowledge of SQL
+- Data Wrangling and EDA Skills
+- Data Visualization and Communication
+
+## MACHINE LEARNING ENGINEERS:
+
+Requirements:
+- Programming Experience in a language like Python, R, Java etc.
+- Advanced Probability and Statistics Knowledge
+- Data Modeling & Evaluation
+- Advanced Machine Learning
+- Software Engineering and System Design
+
 # DATA SCIENCE QUESTIONS
 
 Q. How to find outliers in data?
