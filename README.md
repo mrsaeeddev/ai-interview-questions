@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-# GENERAL Requirements for AI related roles:
+# General Requirements for AI related roles:
 
 ## DATA ENGINEERS:
 
