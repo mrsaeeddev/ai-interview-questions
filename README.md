@@ -79,3 +79,7 @@ A. [See here](https://www.displayr.com/gradient-boosting-the-coolest-kid-on-the-
 Q. How Hyperparameters in an algorithm work?
 <br />
 A. [See here](https://towardsdatascience.com/understanding-hyperparameters-and-its-optimisation-techniques-f0debba07568)
+
+Q. How Linear Regression works?
+<br />
+A. [See here](https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86)
