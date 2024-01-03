@@ -83,3 +83,8 @@ A. [See here](https://towardsdatascience.com/understanding-hyperparameters-and-i
 Q. How Linear Regression works?
 <br />
 A. [See here](https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86)
+
+Q. What is Logistic Regression?
+<br />
+A. [See here](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc)
+
